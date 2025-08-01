@@ -4,7 +4,7 @@ WORKDIR /app
 
 COPY . .
 
-RUN pip install --no-cache-dir mkdocs
+RUN pip install --no-cache-dir mkdocs mkdocs-dracula-theme
 
 EXPOSE 8000
 

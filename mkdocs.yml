@@ -1,4 +1,21 @@
-site_name: Test
-
+site_name: "mroske.pro"
+repo_name: github/Kajetan7
+repo_url: https://github.com/Kajetan7
+site_url: https://www.mroske.pro
+theme:
+  name: dracula
+  logo: assets/avatar.jpg
+  custom_dir: 'overrides'
+extra:
+  search: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Kajetan7
+      name: GitHub
 nav:
-  - Index: index.md
+  - Who am I?: index.md
+  - Experience: sections/experience.md
+  - Projects: sections/projects.md
+  - Skills & Certifications: sections/skills.md
+  - Education: sections/education.md
+  - Recommendations: sections/recommendations.md
