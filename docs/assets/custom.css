@@ -1,0 +1,39 @@
+/* Gallery thumbnail styling */
+.gallery-thumb {
+  width: 120px;
+  height: auto;
+  margin: 4px;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  object-fit: cover;
+  transition: transform 0.2s;
+}
+.gallery-thumb:hover {
+  transform: scale(1.08);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+}
+.photo-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  align-items: center;
+}
+/* Custom logo sizes for education section */
+.logo-coderslab { width: 100px; }
+.logo-morska { width: 100px; }
+.logo-pg { width: 100px; }
+
+.edu-entry {
+  display: flex;
+  align-items: center;
+  margin-bottom: 2em;
+}
+.edu-logo {
+  flex: 0 0 auto;
+  margin-right: 1.5em;
+}
+.edu-desc {
+  flex: 1 1 0;
+}

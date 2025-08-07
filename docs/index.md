@@ -1,7 +1,13 @@
 <h1 style="font-size:2.5em;letter-spacing:2px;margin:0 0 0.5em 0;">Who am I? Glad you asked.</h1>
 <div style="display:flex;align-items:center;gap:2em;margin-bottom:2em;">
-  <div style="flex:1;">
-    <h2 style="font-size:2em;letter-spacing:1px;margin:0.3em 0 0.3em 0;font-weight:700;">KAJETAN MROSKE</h2>
+  <div>
+    <div style="display:flex;align-items:center;gap:1em;">
+      <h2 style="font-size:2em;letter-spacing:1px;margin:0.3em 0 0.3em 0;font-weight:700;display:inline-block;">KAJETAN MROSKE</h2>
+      <span style="display:flex;gap:0.5em;align-items:center;">
+        <img src="assets/az-104.png" alt="AZ-104 Badge" style="height:2.6em;vertical-align:middle;box-shadow:0 1px 4px rgba(0,0,0,0.10);border-radius:0.4em;" />
+        <img src="assets/az-900.png" alt="AZ-900 Badge" style="height:2.6em;vertical-align:middle;box-shadow:0 1px 4px rgba(0,0,0,0.10);border-radius:0.4em;" />
+      </span>
+    </div>
     <div style="font-size:1.3em;font-weight:600;color:#6ad1e3;margin-top:0.5em;">Azure DevOps | Cloud Engineer | Platform Engineer</div>
   </div>
   <div style="width:240px;height:240px;">
@@ -9,7 +15,7 @@
   </div>
 </div>
 
-Welcome to my portfolio site! <span style="font-size:1em;">👋</span> I'm a DevOps Engineer with 2+ years in Azure. Ex-Mechanical Engineer and FBA seller. A bit about me — and how I can help on side. <span style="font-size:1.3em;vertical-align:middle;">👈</span> 
+Welcome to my portfolio site! <span style="font-size:1em;">👋</span> I'm a DevOps Engineer with 2+ years in Azure. Ex-Mechanical Engineer and entrepreneur. A bit about me — and how I can help on side. <span style="font-size:1.3em;vertical-align:middle;">👈</span> 
 
 <div style="margin:2em 0 1em 0;">
   <h3 style="font-size:1.5em;margin-bottom:0.5em;">What I do?</h3>
