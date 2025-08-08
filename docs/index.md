@@ -11,9 +11,11 @@
     <div style="font-size:1.3em;font-weight:600;color:#6ad1e3;margin-top:0.5em;">Azure DevOps | Cloud Engineer | Platform Engineer</div>
   </div>
   <div style="width:240px;height:240px;">
-    <img src="assets/me.jpeg" alt="Avatar" style="width:100%;height:100%;object-fit:cover;border-radius:50%;box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
+    <img src="assets/me.jpeg" alt="Avatar" class="photo-desktop" style="width:100%;height:100%;object-fit:cover;border-radius:50%;box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
   </div>
 </div>
+
+<img src="assets/me.jpeg" alt="Avatar" class="photo-mobile" style="width:100%;height:100%;object-fit:cover;border-radius:50%;box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
 
 Welcome to my portfolio site! <span style="font-size:1em;">👋</span> I'm a DevOps Engineer with 2+ years in Azure. Ex-Mechanical Engineer and entrepreneur. A bit about me — and how I can help on side. <span style="font-size:1.3em;vertical-align:middle;">👈</span> 
 
