@@ -3,7 +3,7 @@
 
 <img src="assets/me.jpeg" alt="Avatar" class="photo-mobile" style="width:100%;height:100%;object-fit:cover;border-radius:50%;box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
 
-<!-- MOBILE HEADER (tylko mobile) -->
+<!-- MOBILE HEADER -->
 <span class="mobile-header-only" style="width:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;margin:0.5em 0 0.5em 0;">
   <span style="display:flex;align-items:center;gap:0.5em;justify-content:center;">
     <span style="font-size:2em;letter-spacing:1px;font-weight:700;">KAJETAN MROSKE</span>
