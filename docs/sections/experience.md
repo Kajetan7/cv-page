@@ -2,7 +2,7 @@
 
 <div class="edu-entry">
   <div class="edu-logo">
-    <img src="/assets/dnv_logo.webp" alt="DNV Logo" style="width:70px;" />
+    <img src="/assets/dnv_logo.webp" class="photo-desktop" alt="DNV Logo" style="width:70px;" />
   </div>
   <div class="edu-desc">
     <h3>Junior DevOps Engineer</h3>
@@ -26,7 +26,7 @@
 
 <div class="edu-entry">
   <div class="edu-logo">
-    <img src="/assets/kajetan_logo.jpg" alt="Kajetan Mroske Project Logo" style="width:70px;" />
+    <img src="/assets/kajetan_logo.jpg" class="photo-desktop" alt="Kajetan Mroske Project Logo" style="width:70px;" />
   </div>
   <div class="edu-desc">
     <h3>Owner</h3>
@@ -50,7 +50,7 @@
 
 <div class="edu-entry">
   <div class="edu-logo">
-    <img src="/assets/nava_logo.jpeg" alt="NAVA Engineering Logo" style="width:70px;" />
+    <img src="/assets/nava_logo.jpeg" class="photo-desktop" alt="NAVA Engineering Logo" style="width:70px;" />
   </div>
   <div class="edu-desc">
     <h3>Project Manager & Senior Mechanical Engineer</h3>
@@ -73,7 +73,7 @@
 
 <div class="edu-entry">
   <div class="edu-logo">
-    <img src="/assets/nava_logo.jpeg" alt="NAVA Engineering Logo" style="width:70px;" />
+    <img src="/assets/nava_logo.jpeg" class="photo-desktop" alt="NAVA Engineering Logo" style="width:70px;" />
   </div>
   <div class="edu-desc">
     <h3>Piping Engineer</h3>
@@ -91,7 +91,7 @@
 
 <div class="edu-entry">
   <div class="edu-logo">
-    <img src="/assets/gmv_logo.jpeg" alt="Grovfjord Mek. Verksted AS Logo" style="width:70px;" />
+    <img src="/assets/gmv_logo.jpeg" class="photo-desktop" alt="Grovfjord Mek. Verksted AS Logo" style="width:70px;" />
   </div>
   <div class="edu-desc">
     <h3>Systems Engineer</h3>
@@ -117,7 +117,7 @@
 
 <div class="edu-entry">
   <div class="edu-logo">
-    <img src="/assets/nava_logo.jpeg" alt="NAVA Engineering Logo" style="width:70px;" />
+    <img src="/assets/nava_logo.jpeg" class="photo-desktop" alt="NAVA Engineering Logo" style="width:70px;" />
   </div>
   <div class="edu-desc">
     <h3>Piping Engineer</h3>
@@ -140,7 +140,7 @@
 
 <div class="edu-entry">
   <div class="edu-logo">
-    <img src="/assets/nava_logo.jpeg" alt="NAVA Engineering Logo" style="width:70px;" />
+    <img src="/assets/nava_logo.jpeg" class="photo-desktop" alt="NAVA Engineering Logo" style="width:70px;" />
   </div>
   <div class="edu-desc">
     <h3>Intern</h3>
