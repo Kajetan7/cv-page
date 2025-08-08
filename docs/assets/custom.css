@@ -1,6 +1,6 @@
 @media (max-width: 600px) {
   .subtitle-role {
-    font-size: 1em !important;
+    font-size: 0.65em !important;
     letter-spacing: 0;
     white-space: nowrap;
   }
