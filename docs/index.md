@@ -1,6 +1,14 @@
 <h1 style="font-size:2.5em;letter-spacing:2px;margin:0 0 0.5em 0;">Who am I? Glad you asked.</h1>
 
+
 <img src="assets/me.jpeg" alt="Avatar" class="photo-mobile" style="width:100%;height:100%;object-fit:cover;border-radius:50%;box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
+
+<!-- MOBILE HEADER (tylko mobile) -->
+<span class="mobile-header-only" style="font-size:1.3em;font-weight:600;color:#6ad1e3;display:flex;align-items:center;gap:0.5em;justify-content:center;margin:0.5em 0 0.5em 0;">
+  Azure DevOps | Cloud Engineer | Platform Engineer
+  <img src="assets/az-104.png" alt="AZ-104 Badge" style="height:2.6em;vertical-align:middle;box-shadow:0 1px 4px rgba(0,0,0,0.10);border-radius:0.4em;" />
+  <img src="assets/az-900.png" alt="AZ-900 Badge" style="height:2.6em;vertical-align:middle;box-shadow:0 1px 4px rgba(0,0,0,0.10);border-radius:0.4em;" />
+</span>
 
 
 <div class="mobile-header-section" style="display:flex;align-items:center;">

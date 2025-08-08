@@ -1,3 +1,15 @@
+/* MOBILE HEADER ONLY: widoczne tylko na mobile */
+.mobile-header-only {
+  display: none;
+}
+@media (max-width: 600px) {
+  .mobile-header-only {
+    display: block;
+  }
+  .mobile-header-section {
+    display: none !important;
+  }
+}
 /* HEADER SECTION - DESKTOP */
 .mobile-header-section {
   display: flex;
