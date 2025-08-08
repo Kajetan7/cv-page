@@ -1,3 +1,10 @@
+@media (max-width: 600px) {
+  .subtitle-role {
+    font-size: 1em !important;
+    letter-spacing: 0;
+    white-space: nowrap;
+  }
+}
 /* Gallery thumbnail styling */
 .gallery-thumb {
   width: 120px;
