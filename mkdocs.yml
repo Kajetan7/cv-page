@@ -5,7 +5,6 @@ site_url: https://www.mroske.pro
 theme:
   name: dracula
   logo: assets/avatar.jpg
-  favicon: assets/favicon.ico
   custom_dir: 'overrides'
 extra:
   search: false
