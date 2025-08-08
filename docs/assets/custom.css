@@ -1,32 +1,12 @@
-.mobile-header-only {
-  display: none;
-}
-@media (max-width: 600px) {
-  .mobile-header-only {
-    display: flex !important;
-  }
-  .mobile-header-section {
-    display: none !important;
-  }
-}
-/* MOBILE HEADER ONLY: widoczne tylko na mobile */
-.mobile-header-only {
-  display: none;
-}
-@media (max-width: 600px) {
-  .mobile-header-only {
-    display: block;
-  }
-  .mobile-header-section {
-    display: none !important;
-  }
-}
 /* HEADER SECTION - DESKTOP */
 .mobile-header-section {
   display: flex;
   align-items: center;
   gap: 2em;
   margin-bottom: 2em;
+}
+.mobile-header-only {
+  display: none;
 }
 .photo-mobile {
   display: none;
@@ -35,12 +15,14 @@
   display: block;
 }
 
-/* MOBILE OVERRIDES */
 @media (max-width: 600px) {
   .mobile-header-section {
-    gap: 0.5em !important;
-    margin-bottom: 0.5em !important;
-    margin-top: 0 !important;
+    display: none !important;
+  }
+  .mobile-header-only {
+    display: flex !important;
+    flex-direction: column;
+    width: 100%;
   }
   .photo-mobile {
     display: block !important;
