@@ -1,4 +1,16 @@
 @media (max-width: 600px) {
+  .photo-mobile {
+    margin-top: 0.5em !important;
+    margin-bottom: 0.5em !important;
+    display: block;
+  }
+  .mobile-header-section {
+    margin-bottom: 1em !important;
+    margin-top: 0 !important;
+    gap: 1em !important;
+  }
+}
+@media (max-width: 600px) {
   .subtitle-role {
     font-size: 0.65em !important;
     letter-spacing: 0;
