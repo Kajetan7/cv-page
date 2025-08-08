@@ -1,13 +1,13 @@
 @media (max-width: 600px) {
   .photo-mobile {
-    margin-top: 0.5em !important;
-    margin-bottom: 0.5em !important;
+    margin-top: 0.25em !important;
+    margin-bottom: 0.25em !important;
     display: block;
   }
   .mobile-header-section {
-    margin-bottom: 1em !important;
+    margin-bottom: 0.5em !important;
     margin-top: 0 !important;
-    gap: 1em !important;
+    gap: 0.5em !important;
   }
 }
 @media (max-width: 600px) {
