@@ -6,7 +6,7 @@ CONTAINER_NAME="mkdocs-container"
 case "$1" in
   build)
     echo "🔨 Building docker image.."
-    docker build -t $IMAGE_NAME ../
+    docker build -t $IMAGE_NAME "$(dirname "$0")/.."
     ;;
 
   start)
