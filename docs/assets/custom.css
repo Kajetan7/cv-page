@@ -1,3 +1,14 @@
+.mobile-header-only {
+  display: none;
+}
+@media (max-width: 600px) {
+  .mobile-header-only {
+    display: flex !important;
+  }
+  .mobile-header-section {
+    display: none !important;
+  }
+}
 /* MOBILE HEADER ONLY: widoczne tylko na mobile */
 .mobile-header-only {
   display: none;
