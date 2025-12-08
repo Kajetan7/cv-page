@@ -33,7 +33,7 @@
 </div>
 
 
-Welcome to my portfolio site! <span style="font-size:1em;">👋</span> I'm a DevOps Engineer with 2+ years in Azure. Ex-Mechanical Engineer and entrepreneur. A bit about me — and how I can help on side. <span style="font-size:1.3em;vertical-align:middle;">👈</span> 
+Welcome to my portfolio site! <span style="font-size:1em;">👋</span> I'm a DevOps Engineer with 4+ years in IT field. Ex-Mechanical Engineer and entrepreneur. A bit about me — and how I can help on side. <span style="font-size:1.3em;vertical-align:middle;">👈</span> 
 
 <div style="margin:2em 0 1em 0;">
   <h3 style="font-size:1.5em;margin-bottom:0.5em;">What I do?</h3>
