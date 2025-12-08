@@ -7,7 +7,7 @@
   <div class="edu-desc">
     <h3>Junior DevOps Engineer</h3>
     <strong>DNV</strong><br>
-    Aug 2023 – Present · 2 yrs 1 mo<br>
+    Aug 2023 – Present · 2 yrs 6 mo<br>
     <ul>
       <li>Developing and maintaining a multi-tenant, Azure-based Kubernetes platform</li>
       <li>Main projects: status page & SLA dashboards (Azure Container App, Terraform, Grafana+Prometheus, PowerBI), chargeback model (Python, OpenCost, Azure CLI), internal developer platform (Backstage)</li>
@@ -98,8 +98,8 @@
     <strong>Grovfjord Mek. Verksted AS · Full-time</strong><br>
     Sep 2020 – Apr 2021 · 8 mos · Norway<br>
     <ul>
-      <li>Basic design of remote controlled piping systems for Unmanned Service Vessel series (21m) with risk analysis</li>
-      <li>Basic design of piping systems for Windfarm Service Catamaran (39m)</li>
+      <li>Basic design of remote controlled systems for Unmanned Service Vessel series (21m) with risk analysis</li>
+      <li>Basic design of systems for Windfarm Service Catamaran (39m)</li>
       <li>Coordinated international engineering team</li>
       <li>Active communication with clients, suppliers, and production team</li>
     </ul>
