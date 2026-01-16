@@ -6,11 +6,10 @@
   </div>
   <div class="edu-desc">
     <h3>Coders Lab</h3>
-    <strong>Python Developer (Backend)</strong><br>
-    March 2023 – September 2023<br>
-    600h+ Python + Django - fulltime bootcamp<br>
-    <strong>Skills:</strong> Python · Django · Git · JavaScript · PostgreSQL<br>
-    <strong>Project:</strong> Bike service calendar and scheduler
+    <strong>Hands-On Program Computer Science and Advanced Python Scripting</strong><br>
+    Jan 2023 – Oct 2023<br>
+    Thesis: Creating Django based application for bike service schedule.<br>
+    <strong>Skills:</strong> Python · Django · Docker · Git · JavaScript · PostgreSQL<br>
   </div>
 </div>
 
