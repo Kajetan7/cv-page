@@ -5,7 +5,7 @@
     <img src="/assets/dnv_logo.webp" class="photo-desktop" alt="DNV Logo" style="width:70px;" />
   </div>
   <div class="edu-desc">
-    <h3>Junior DevOps Engineer</h3>
+    <h3>DevOps Engineer</h3>
     <strong>DNV</strong><br>
     Aug 2023 – Present · 2 yrs 6 mo<br>
     <ul>
