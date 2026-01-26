@@ -19,9 +19,9 @@
   </div>
   <div class="edu-desc">
     <h3>Gdynia Maritime University</h3>
-    <strong>Master's degree, Marine Engineering - Technology for Repairs of Ship and Port Units</strong><br>
+    <strong>M.Sc. in Engineering - Systems and mechanical engineering</strong><br>
     2019 – 2021<br>
-    <strong>Thesis:</strong> Preliminary design of ventilation system for engine room of remote controlled service vessel.
+    <strong>Thesis:</strong> Design of HVAC system for drone vessel.
   </div>
 </div>
 
@@ -31,8 +31,8 @@
   </div>
   <div class="edu-desc">
     <h3>Gdansk University of Technology</h3>
-    <strong>Bachelor's degree, Ocean Engineering and Ship Technology - Machinery, Power Plants and Ship Equipment</strong><br>
-    2015 – 2019<br>
-    <strong>Thesis:</strong> Preliminary design of exhaust installation for main engine of containership 16000 TEU.
+    <strong>B.Sc. in Engineering – Mechanical, Automation & Systems</strong>
+    <br>2015 – 2019<br>
+    <strong>Thesis:</strong> EGCS system design for container ship.
   </div>
 </div>
